@@ -9,7 +9,7 @@ Simple bot for Discord. Allows users to add topics to a queue for talking about 
 
 # Usage (in a discord channel within server bot is invited to)
 
-Type `queue` to view the current state of the queue
+Type `!queue` to view the current state of the queue
 
 Type `!queue add <topic>` to add a topic to the queue
 
