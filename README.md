@@ -5,7 +5,6 @@ Simple bot for Discord. Allows users to add topics to a queue for talking about 
 # Dependencies
 
 - discord.py
-- atexit
 
 # Usage (in a discord channel within server bot is invited to)
 
@@ -24,8 +23,6 @@ Allow users to remove entries by entry #
 Record the name of the user that added the topic WITH the topic entry
 
 Add help command
-
-Host on the WWW instead of self-hosting the bot
 
 
 # Info
